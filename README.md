@@ -1,6 +1,6 @@
 # Hi there, I'm Amirhossein <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Mobile App Developer  
 

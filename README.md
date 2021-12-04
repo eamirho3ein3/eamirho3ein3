@@ -41,15 +41,11 @@
 
 <br/>
 
----
-
 [website]: 
 [instagram]: 
 [linkedin]: https://www.linkedin.com/in/amir-hossein-khani-7b397611a/
 [gmail]: mailto:eamirho3einkhani@gmail.com
 [twitter]: https://twitter.com/3amirho3ein
 
-
-----
 
 Last Edited on: 04/12/2021

@@ -19,9 +19,9 @@
 <!-- <a href="https://www.linkedin.com/in/amir-hossein-khani-7b397611a/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a> -->
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Amirhossein Khani's LinkedIn Profile">][linkedin]
-[<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" alt="Amirhossein Khani's Gmail Address">][gmail]
-[<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" alt="Amirhossein Khani | Twitter" />][twitter]
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  height="30" width="30" alt="Amirhossein Khani's LinkedIn Profile">][linkedin]
+[<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  height="30" width="30" alt="Amirhossein Khani's Gmail Address">][gmail]
+[<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg"  height="30" width="30" alt="Amirhossein Khani | Twitter" />][twitter]
 
 <br />
 

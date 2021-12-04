@@ -14,12 +14,13 @@
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+
 ### Contact with me 📝
 
 <!-- [<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website] -->
-<!-- <a href="https://www.linkedin.com/in/amir-hossein-khani-7b397611a/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a> -->
+
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  height="30" width="30" alt="Amirhossein Khani's LinkedIn Profile">][linkedin]
 [<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  height="30" width="30" alt="Amirhossein Khani's Gmail Address">][gmail]
 [<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg"  height="30" width="30" alt="Amirhossein Khani | Twitter" />][twitter]

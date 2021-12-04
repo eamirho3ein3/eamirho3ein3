@@ -4,7 +4,7 @@
 
 ## I'm a Mobile App Developer  
 
-- 👨‍💻 I’m currently working on web development technologies like Flutter, Swift.
+- 👨‍💻 I’m currently working on mobile app development technologies like Flutter, Swift.
 - 📚 I’m currently learning everything about Frontend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play video game.
